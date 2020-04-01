@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1557214214 source:d:\计算机博弈\connect6\aifengminconnect6\aifengminconnect6main.cpp
+	"aifengminconnect6.h"
+
+1557813231 d:\计算机博弈\connect6\aifengminconnect6\aifengminconnect6.h
+	<stdio.h>
+	<winbgim.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+
+1266058214 d:\code blocks\codeblocks\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1585733734 source:d:\计算机博弈\connect6\aifengminconnect6\aifengminconnect6.cpp
+	"aifengminconnect6.h"
+
